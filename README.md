@@ -6,7 +6,7 @@
 
 #### NPM
 ```
-npm i @damilaredev/vue-axios --save
+npm i axios @damilaredev/vue-axios --save
 ``` 
 
 ### Usage
