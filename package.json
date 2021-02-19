@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "axios": "^0.19.2",
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dammy001/vueAxios.git"
@@ -13,6 +16,8 @@
   "keywords": [
     "vue",
     "axios"
+    "vuejs",
+    "vue 2"
   ],
   "author": "Damilare Anjorin",
   "license": "MIT",
