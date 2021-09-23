@@ -1,6 +1,6 @@
 {
   "name": "@damilaredev/vue-axios",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "axios wrapper for vue 2.x",
   "main": "index.js",
   "scripts": {
